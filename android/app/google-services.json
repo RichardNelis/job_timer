@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392858769973",
+    "project_id": "job-timer-android",
+    "storage_bucket": "job-timer-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392858769973:android:7ea4e76d5d58963b61af7c",
+        "android_client_info": {
+          "package_name": "br.com.souza.richard.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392858769973-0f6jves6ia36nrou38h6bbl0kdsj1roe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH_jAjwrOLDlfvWJExf9wvn7PKCSWFunI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392858769973-0f6jves6ia36nrou38h6bbl0kdsj1roe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
