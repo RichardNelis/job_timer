@@ -1,12 +1,15 @@
 # Job Timer
+
+Aplicativo desenvolvido em acompanhamento do Dart Week 7 - Rodrigo Rahman 
  
 Gerência de estado
  - Bloc (Cubit)
 
-Banco de Dados
+ Login
+ - Firebase (Google)
+
+Banco de Dados (Local)
  - ISAR
 
 Gerência de Rotas
  - Modular
-
- * Aplicativo desenvolvido através do Dart Week 7 - Rodrigo Rahman 
