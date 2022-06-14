@@ -1,10 +1,10 @@
 # Job Timer
  
-Gerencia de estado
+Gerência de estado
  - Bloc (Cubit)
 
 Banco de Dados
  - ISAR
 
-Rotas
+Gerência de Rotas
  - Modular
